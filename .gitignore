@@ -1,0 +1,16 @@
+# Gradle
+build/
+.gradle/
+gradlew
+gradlew.bat
+
+# Intellij
+out/
+*.iml
+.idea/
+
+# Package Files #
+*.jar
+
+!7guis_tornadofx.jar
+!gradle-wrapper.jar
