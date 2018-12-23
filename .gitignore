@@ -14,3 +14,5 @@ out/
 
 !7guis_tornadofx.jar
 !gradle-wrapper.jar
+
+.directory
